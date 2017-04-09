@@ -1,2 +1,2 @@
-# docker-volumio-image-builder
+# vagrant-volumio-image-builder
 A docker image to build your preferred volumio image
